@@ -60,6 +60,9 @@ This is a Node.js application built using Express.js. It serves as an API that i
 
 ### `/`
 
+- **Purpose**: Root endpoint.
+- **Functionality**: Returns a JSON response indicating that the application is running.
+
 ### `gpt_analyser` Function Details
 
 - **Function Purpose**: Analyzes website content and updates the database with relevant information.
@@ -116,12 +119,6 @@ The `checkDEIOnCompanyPage` function is designed to verify the presence of Diver
 ### Purpose
 This function checks if a company's careers website contains DEI-related keywords and updates the database accordingly.
 
-
-
-
-
-- **Purpose**: Root endpoint.
-- **Functionality**: Returns a JSON response indicating that the application is running.
 
 ## Operational Notes
 
