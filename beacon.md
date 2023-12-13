@@ -1,3 +1,6 @@
+
+#### Repo Link For Beacon: https://github.com/AryanBarsaiyan/beacon
+
 # Express.js Application Documentation
 
 This is a Node.js application built using Express.js. It serves as an API that interacts with an Airtable database, fetching data from various sources, performing analyses, and updating the database records.
